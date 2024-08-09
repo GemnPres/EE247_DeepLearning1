@@ -1,3 +1,5 @@
+Summary
+
 Homework 1 : Linear Regression
 
 Homework 2: Implementating of KNN and Softmax from scratch using NumPy
